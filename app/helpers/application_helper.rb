@@ -6,7 +6,7 @@ module ApplicationHelper
     def full_title(page_title = ' ')
 
         # Creating and assigning a variable
-        base_title = "Orbit Feedback Application"
+        base_title = "Sistema de Comandas"
         
         # Boolean test
         if page_title.empty?
